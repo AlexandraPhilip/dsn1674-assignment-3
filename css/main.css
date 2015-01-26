@@ -12,3 +12,26 @@ h1 {
   font-family: 'Lobster', cursive;
   color: #ffffff;
 }
+h2{
+  font-weight: normal;
+  font-size: 2rem;
+  text-decoration: none;
+  font-family: 'Lobster', serif;
+  line-height: 1.5;
+  color: #ffffff;
+  text-align: center;
+}
+
+
+ol {
+  list-style-type: circle;
+  padding: 0;
+  line-height: 1.5;
+  color:#de00ff;
+  font-size:1.5rem;
+}
+
+dl {
+  font-family: sans-serif;
+  color: lightgrey;
+  line-height: 1.5rem;
